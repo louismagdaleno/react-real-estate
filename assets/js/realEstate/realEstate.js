@@ -2,7 +2,9 @@ import React, { Component} from 'react'
 import ReactDOM from 'react-dom'
 
 // custom components
-import Header from './Header';
+import Header from './header';
+import Filter from './filter';
+import Listing from './listing';
 
 class App extends Component {
   constructor () {
@@ -18,7 +20,7 @@ class App extends Component {
       <Header />
       <section id="content-area">
         <Filter />
-        <Listings />
+        <Listing />
       </section>
     </div>)
   }

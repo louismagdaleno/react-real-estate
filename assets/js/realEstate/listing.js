@@ -10,7 +10,7 @@ export default class Listing extends Component {
   render () {
     return (
       <div>
-        
+        test
       </div>
     )
   }
