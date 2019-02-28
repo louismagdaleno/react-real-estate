@@ -9,9 +9,9 @@ export default class Listing extends Component {
   }
   render () {
     return (
-      <div>
-        test
-      </div>
+     <section className="listing">
+        Listing
+     </section>
     )
   }
 }
