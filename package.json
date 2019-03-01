@@ -1,11 +1,10 @@
 {
-  "name": "CodingPhase-StarterKit",
+  "name": "Rentr",
   "version": "1.0.0",
-  "description": "Super Cool Framework",
+  "description": "Rentr - React App",
   "main": "index.js",
-  "author": "joe santos garcia",
+  "author": "Louis Magdaleno",
   "license": "MIT",
-  "homepage": "http://rocky.codingphase.com/",
   "dependencies": {
     "axios": "^0.16.1",
     "babel-core": "^6.24.1",
